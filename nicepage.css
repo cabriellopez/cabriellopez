@@ -28580,9 +28580,12 @@ a.u-link.u-text-hover-grey-90:hover {
 @media (max-width: 1199px){ .u-header {min-height: 125px}
 .u-header .u-menu-1 {margin-top: -75px}
 .u-header .u-line-1 {width: 940px; margin-left: calc(((100% - 940px) / 2))} }
-@media (max-width: 991px){ .u-header .u-line-1 {width: 720px; margin-left: calc(((100% - 720px) / 2))} }
-@media (max-width: 767px){ .u-header .u-line-1 {width: 540px; margin-left: calc(((100% - 540px) / 2))} }
-@media (max-width: 575px){ .u-header .u-line-1 {width: 340px; margin-left: calc(((100% - 340px) / 2))} }
+@media (max-width: 991px){ .u-header .u-menu-1 {width: auto; margin-top: -78px; margin-right: calc(((100% - 720px) / 2) + -36px)}
+.u-header .u-line-1 {width: 720px; margin-top: 40px; margin-left: auto; margin-bottom: 3px} }
+@media (max-width: 767px){ .u-header .u-menu-1 {margin-top: -78px; margin-right: calc(((100% - 540px) / 2))}
+.u-header .u-line-1 {width: 540px} }
+@media (max-width: 575px){ .u-header .u-menu-1 {margin-right: calc(((100% - 340px) / 2))}
+.u-header .u-line-1 {width: 340px} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 228px}
 .u-footer .u-text-1 {margin: 46px auto 0 465px}
@@ -28592,13 +28595,10 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-2 {height: 100%}
 .u-footer .u-text-2 {width: 417px; margin: 38px auto 46px} 
 @media (max-width: 1199px){ .u-footer .u-sheet-1 {min-height: 99px}
-.u-footer .u-text-1 {margin-left: 383px} }
-@media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px}
-.u-footer .u-text-1 {margin-left: 293px} }
-@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px}
-.u-footer .u-text-1 {margin-left: 220px} }
+.u-footer .u-text-1 {margin-left: auto} }
+@media (max-width: 991px){ .u-footer .u-sheet-1 {min-height: 76px} }
+@media (max-width: 767px){ .u-footer .u-sheet-1 {min-height: 57px} }
 @media (max-width: 575px){ .u-footer .u-sheet-1 {min-height: 36px}
-.u-footer .u-text-1 {margin-left: 139px}
 .u-footer .u-text-2 {width: 340px} }
 
  /*begin-variables base-font-size*/ 
