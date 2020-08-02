@@ -6,7 +6,7 @@
 .u-section-1 .u-image-1 {width: 340px; height: 340px; background-image: url("images/16797969_10158246207080173_1219777349935693259_o.jpg"); background-position: 50% 50%; animation-duration: 1000ms; margin: 21px auto 0 calc(((100% - 1140px) / 2) + 400px)}
 .u-section-1 .u-text-3 {font-weight: 700; font-style: italic; font-size: 1.25rem; animation-duration: 1000ms; margin: 0 calc(((100% - 1140px) / 2) + 1px)}
 .u-section-1 .u-text-4 {font-size: 1.125rem; animation-duration: 1000ms; width: 819px; margin: 57px calc(((100% - 1140px) / 2) + 161px) 0}
-.u-section-1 .u-btn-2 {background-image: none; border-style: solid; animation-duration: 1000ms; margin: 89px auto 36px calc(((100% - 1140px) / 2) + 504px)} 
+.u-section-1 .u-btn-2 {background-image: none; border-style: solid; animation-duration: 1000ms; margin: 57px auto 60px} 
 
 @media (max-width: 1199px){ .u-section-1 {min-height: 912px}
 .u-section-1 .u-icon-1 {margin-left: calc(((100% - 940px) / 2) + 419px)}
@@ -14,8 +14,7 @@
 .u-section-1 .u-text-2 {margin-left: 51px; margin-right: 51px}
 .u-section-1 .u-image-1 {margin-left: auto}
 .u-section-1 .u-text-3 {width: 248px; margin-left: auto; margin-right: auto}
-.u-section-1 .u-text-4 {margin-left: calc(((100% - 940px) / 2) + 61px); margin-right: calc(((100% - 940px) / 2) + 61px)}
-.u-section-1 .u-btn-2 {margin-left: auto} }
+.u-section-1 .u-text-4 {margin-left: calc(((100% - 940px) / 2) + 61px); margin-right: calc(((100% - 940px) / 2) + 61px)} }
 
 @media (max-width: 991px){ .u-section-1 {min-height: 896px}
 .u-section-1 .u-icon-1 {margin-left: calc(((100% - 720px) / 2) + 309px)}
@@ -113,7 +112,7 @@
 .u-section-3 .u-text-11 {font-size: 1.125rem; margin: 31px calc(((100% - 1140px) / 2) + 762px) 0 calc(((100% - 1140px) / 2) + 7px)}
 .u-section-3 .u-text-12 {font-size: 1.125rem; margin: -56px calc(((100% - 1140px) / 2) + 378px) 0 calc(((100% - 1140px) / 2) + 393px)}
 .u-section-3 .u-text-13 {font-size: 1.125rem; margin: -56px calc(((100% - 1140px) / 2) + -2px) 0 calc(((100% - 1140px) / 2) + 777px)}
-.u-section-3 .u-btn-7 {background-image: none; border-style: solid; animation-duration: 1000ms; margin: 171px auto 60px} 
+.u-section-3 .u-btn-7 {background-image: none; border-style: solid; animation-duration: 1000ms; margin: 143px auto 60px} 
 
 @media (max-width: 1199px){ .u-section-3 {min-height: 983px}
 .u-section-3 .u-text-1 {width: 605px; margin-top: 60px; margin-left: calc(((100% - 940px) / 2) + 168px); margin-right: calc(((100% - 940px) / 2) + 168px)}
