@@ -65,7 +65,7 @@
 .u-section-2 .u-text-6 {line-height: 1.6; margin-top: 83px; margin-left: 60px}
 .u-section-2 .u-btn-1 {margin-top: 11px} }
 
-@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 1414px}
+@media (max-width: 575px){ .u-section-2 .u-sheet-1 {min-height: 1287px}
 .u-section-2 .u-text-1 {width: 340px; margin-top: 60px}
 .u-section-2 .u-text-2 {margin-top: 58px}
 .u-section-2 .u-text-3 {margin-top: 34px}
@@ -100,7 +100,7 @@
 .u-section-3 .u-text-11 {font-size: 1.125rem; margin: 46px calc(((100% - 1140px) / 2) + 762px) 0 calc(((100% - 1140px) / 2) + 7px)}
 .u-section-3 .u-text-12 {font-size: 1.125rem; margin: -84px calc(((100% - 1140px) / 2) + 378px) 0 calc(((100% - 1140px) / 2) + 393px)}
 .u-section-3 .u-text-13 {font-size: 1.125rem; margin: -70px calc(((100% - 1140px) / 2) + -2px) 0 calc(((100% - 1140px) / 2) + 775px)}
-.u-section-3 .u-btn-7 {background-image: none; border-style: solid; animation-duration: 1000ms; margin: 125px auto 60px calc(((100% - 1140px) / 2) + 507px)} 
+.u-section-3 .u-btn-7 {background-image: none; border-style: solid; animation-duration: 1000ms; margin: 104px auto 60px} 
 
 @media (max-width: 1199px){ .u-section-3 {min-height: 983px}
 .u-section-3 .u-text-1 {width: 605px; margin-top: 60px; margin-left: calc(((100% - 940px) / 2) + 168px); margin-right: calc(((100% - 940px) / 2) + 168px)}
@@ -163,7 +163,8 @@
 .u-section-3 .u-text-13 {width: 540px}
 .u-section-3 .u-btn-7 {width: 126px} }
 
-@media (max-width: 575px){ .u-section-3 .u-text-1 {width: 338px; margin-top: 57px; margin-left: auto; margin-right: auto}
+@media (max-width: 575px){ .u-section-3 {min-height: 2177px}
+.u-section-3 .u-text-1 {width: 338px; margin-top: 104px; margin-left: auto; margin-right: auto}
 .u-section-3 .u-list-1 {width: 340px; margin-top: 60px; margin-left: auto}
 .u-section-3 .u-text-2 {width: auto; margin-top: -1315px; margin-right: calc(((100% - 340px) / 2) + 3px); margin-left: calc(((100% - 340px) / 2) + -3px)}
 .u-section-3 .u-text-3 {width: auto; margin-right: calc(((100% - 340px) / 2) + 2px); margin-left: calc(((100% - 340px) / 2) + -2px)}
@@ -174,9 +175,9 @@
 .u-section-3 .u-text-7 {width: 340px; margin-left: calc(((100% - 340px) / 2)); margin-right: calc(((100% - 340px) / 2))}
 .u-section-3 .u-text-8 {width: auto; margin-top: -1243px; margin-right: calc(((100% - 340px) / 2) + 2px); margin-left: calc(((100% - 340px) / 2) + -2px)}
 .u-section-3 .u-btn-5 {font-size: 1.5rem}
-.u-section-3 .u-text-9 {font-size: 0.875rem; margin-top: 508px; margin-left: 0; margin-right: 0; width: 340px}
+.u-section-3 .u-text-9 {font-size: 0.875rem; width: auto; margin-top: 509px; margin-right: calc(((100% - 340px) / 2) + -2px); margin-left: calc(((100% - 340px) / 2) + 2px)}
 .u-section-3 .u-btn-6 {font-size: 1.5rem}
-.u-section-3 .u-text-10 {width: 340px; margin-top: 619px}
+.u-section-3 .u-text-10 {width: 340px; margin-top: 618px}
 .u-section-3 .u-text-11 {font-size: 1.125rem; width: 334px; margin-top: -1099px; margin-left: calc(((100% - 340px) / 2)); margin-right: calc(((100% - 340px) / 2))}
 .u-section-3 .u-text-12 {font-size: 1.125rem; width: 329px; margin-top: 461px; margin-left: calc(((100% - 340px) / 2) + 6px); margin-right: calc(((100% - 340px) / 2) + 6px)}
 .u-section-3 .u-text-13 {font-size: 1.125rem; width: 329px; margin-top: 457px; margin-left: calc(((100% - 340px) / 2) + 6px); margin-right: calc(((100% - 340px) / 2) + 6px)}
