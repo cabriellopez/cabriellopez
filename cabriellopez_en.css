@@ -297,12 +297,12 @@
 .u-section-5 .u-btn-1 {padding: 0}
 .u-section-5 .u-text-4 {margin: 0 auto 0 67px}
 .u-section-5 .u-btn-2 {padding: 0}
-.u-section-5 .u-social-icons-1 {white-space: nowrap; height: 32px; min-height: 16px; width: 128px; min-width: 64px; margin: 29px auto 0 -30px}
+.u-section-5 .u-social-icons-1 {white-space: nowrap; height: 32px; min-height: 16px; width: 128px; min-width: 64px; animation-duration: 1000ms; margin: 28px auto 0 -30px}
 .u-section-5 .u-icon-1 {height: 100%}
 .u-section-5 .u-icon-2 {height: 100%}
 .u-section-5 .u-icon-3 {height: 100%}
 .u-section-5 .u-icon-4 {height: 100%}
-.u-section-5 .u-text-5 {margin: -25px 50px 0 auto}
+.u-section-5 .u-text-5 {margin: -24px 50px 0 auto}
 .u-section-5 .u-text-6 {font-size: 0.875rem; margin: 14px auto 60px} 
 
 @media (max-width: 991px){ .u-section-5 .u-container-layout-1 {padding-bottom: 10px} }
